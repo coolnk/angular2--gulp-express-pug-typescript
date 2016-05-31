@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "tsc":"tsc",
+    "tsc": "tsc",
     "tsc:w": "tsc -w",
     "lite": "lite-server",
     "start": "concurrent \" npm run tsc:w\" \"npm run lite\" "
@@ -17,5 +17,8 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/coolnk/angular2--gulp-express-pug-typescript/issues"
+  },
+  "dependencies": {
+    "typescript": "1.8.10"
   }
 }
