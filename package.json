@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/coolnk/angular2--gulp-express-pug-typescript/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/coolnk/angular2--gulp-express-pug-typescript#readme"
+=======
+  "devDependencies": {}
+>>>>>>> dff557295ae54805caedfca876529b3030293f55
 }
