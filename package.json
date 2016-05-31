@@ -19,6 +19,14 @@
     "url": "https://github.com/coolnk/angular2--gulp-express-pug-typescript/issues"
   },
   "dependencies": {
-    "typescript": "1.8.10"
+ 
+  },
+  "devDependencies": {
+    "del": "2.2.0",
+    "gulp": "3.9.1",
+    "gulp-typescript": "2.13.5",
+    "save-dev": "2.0.0",
+    "typescript": "1.8.10",
+    "typings": "1.0.4"
   }
 }
